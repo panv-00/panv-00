@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @panv-00
-- 👀 I’m interested in C, Python, Php, Arduino, and many more...
+- 👀 I’m interested in C/C++, Python, Php, Arduino, and many more...
 - 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me ? Just email me.. panv@tutanota.com
 
